@@ -1,4 +1,4 @@
-#forma 02
+# Desafio 016 ~ Forma 02
 '''Crie um programa que leia um número real qualquer e mostre na tela sua porção inteira'''
 
 num = float(input('Digite um valor:'))
