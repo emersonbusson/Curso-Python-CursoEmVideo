@@ -1,6 +1,6 @@
-# Escreva um programa que leia um valor em metros e exiba convertido em centinmentos e melimetros.
+# Desafio 008 - Escreva um programa que leia um valor em metros e o exiba convertido em centímetros e milímetros.
 
-m = float(input('Digita quantos matros a ser convertido:'))
-ce = m *100
-mi = m *1000
-print(' O valor em metros digitado é: {} \n O valor convertido para centrimentos é: {} \n O Valor convertido para milimetro é: {} \n '.format(m,ce,mi))
+metros = float(input('Digita quantos metros a ser convertido:'))
+centimetros = metros *100
+milimetros = metros *1000
+print('O valor em metros digitado: {}\nO valor convertido para centímetros é: {}\nO valor convertido para milímetros é: {}'.format(metros,centimetros,milimetros))
