@@ -1,7 +1,7 @@
-'''Faça um programa que leia um número inteiro e mostre na tela seu sucessor ou seu antecessor.'''
+#Desafio 005 - Faça um programa que leia um número inteiro e mostre na tela o seu sucessor e o seu antecessor.
 
-n = int(input('Digite um número:'))
-a =  n - 1
-s =  n + 1
-print('O número antecessor é: {}'.format(a))
-print('O número sucessor é: {}'.format(s))
+numero = int(input('Digite um número:'))
+numero_sucessor =  numero - 1
+numero_antecessor =  numero + 1
+print('O número antecessor é: {}'.format(numero_sucessor))
+print('O número sucessor é: {}'.format(numero_antecessor))
