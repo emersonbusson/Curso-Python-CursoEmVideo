@@ -20,3 +20,5 @@
 ### Conhecendo a linguagem
 
 - [Desafio 001](https://github.com/emersonbusson/Curso-Python-CursoEmVideo/blob/main/MUNDO%2001/AULA%2001%20-%2005%20-%20CONHECENDO%20A%20LINGUAGEM/Desafio%20001.py) - Crie um programa que escreva "Olá Mundo!" na Tela.
+
+- [Desafio 002](https://github.com/emersonbusson/Curso-Python-CursoEmVideo/blob/main/MUNDO%2001/AULA%2001%20-%2005%20-%20CONHECENDO%20A%20LINGUAGEM/Desafio%20002.py) - Faça um programa que leia nome de uma pessoa e mostre uma mensagem de boas-vindas.
