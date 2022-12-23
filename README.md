@@ -26,4 +26,9 @@
 ### Primeiros passos
 
 - [Desafio 003](https://github.com/emersonbusson/Curso-Python-CursoEmVideo/blob/main/MUNDO%2001/AULA%2006%20-%20TIPOS%20PRIMITIVOS/Desafio%20003.py) - Crie um programa que leia dois números e mostre a soma entre eles.
-- [Desafio 004](https://github.com/emersonbusson/Curso-Python-CursoEmVideo/blob/main/MUNDO%2001/AULA%2006%20-%20TIPOS%20PRIMITIVOS/Desafio%20004.py) - Faça um programa que leia algo pelo teclado e mostre na tela o seu tipo primitivo e todas as informações possíveis sobre ele. 
+- [Desafio 004](https://github.com/emersonbusson/Curso-Python-CursoEmVideo/blob/main/MUNDO%2001/AULA%2006%20-%20TIPOS%20PRIMITIVOS/Desafio%20004.py) - Faça um programa que leia algo pelo teclado e mostre na tela o seu tipo primitivo e todas as informações possíveis sobre ele.
+
+### Cálculos e operações
+- [Desafio 005](https://github.com/emersonbusson/Curso-Python-CursoEmVideo/blob/main/MUNDO%2001/AULA%2007%20-%20OPERADORES%20ARITIM%C3%89DICOS/Desafio%20005%2C%20Aula%2007.py) - Faça um programa que leia um número inteiro e mostre na tela o seu sucessor e o seu antecessor.
+- [Desafio 006](https://github.com/emersonbusson/Curso-Python-CursoEmVideo/blob/main/MUNDO%2001/AULA%2007%20-%20OPERADORES%20ARITIM%C3%89DICOS/Desafio%20006%20Aula%2007.py) - Crie um algoritmo que leia um número e mostre o seu dobro, triplo e raiz quadrada.
+- [Desafio 007](https://github.com/emersonbusson/Curso-Python-CursoEmVideo/blob/main/MUNDO%2001/AULA%2007%20-%20OPERADORES%20ARITIM%C3%89DICOS/Desafio%20007%20Aula%2007.py) - Desenvolva um programa que leia duas notas de um aluno, calcule as e mostre a sua média.
