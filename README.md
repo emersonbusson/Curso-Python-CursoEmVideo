@@ -10,3 +10,7 @@
 
 
 # Lista de exercícios
+
+* [Desafio 001](https://github.com/emersonbusson/Curso-Python-CursoEmVideo/blob/main/MUNDO%2001/AULA%2001%20-%2005%20-%20CONHECENDO%20A%20LINGUAGEM/Desafio%20001.py)
+- Crie um programa que escreva "Olá Mundo!" na Tela.
+
