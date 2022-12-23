@@ -22,3 +22,8 @@
 - [Desafio 001](https://github.com/emersonbusson/Curso-Python-CursoEmVideo/blob/main/MUNDO%2001/AULA%2001%20-%2005%20-%20CONHECENDO%20A%20LINGUAGEM/Desafio%20001.py) - Crie um programa que escreva "Olá Mundo!" na Tela.
 
 - [Desafio 002](https://github.com/emersonbusson/Curso-Python-CursoEmVideo/blob/main/MUNDO%2001/AULA%2001%20-%2005%20-%20CONHECENDO%20A%20LINGUAGEM/Desafio%20002.py) - Faça um programa que leia nome de uma pessoa e mostre uma mensagem de boas-vindas.
+
+### Primeiros passos
+
+- [Desafio 003](https://github.com/emersonbusson/Curso-Python-CursoEmVideo/blob/main/MUNDO%2001/AULA%2006%20-%20TIPOS%20PRIMITIVOS/Desafio%20003.py) - Crie um programa que leia dois números e mostre a soma entre eles.
+- [Desafio 004](https://github.com/emersonbusson/Curso-Python-CursoEmVideo/blob/main/MUNDO%2001/AULA%2006%20-%20TIPOS%20PRIMITIVOS/Desafio%20004.py) - Faça um programa que leia algo pelo teclado e mostre na tela o seu tipo primitivo e todas as informações possíveis sobre ele. 
