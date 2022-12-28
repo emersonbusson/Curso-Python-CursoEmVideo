@@ -1,8 +1,7 @@
-#Faça um programa que leia o comprimento do cateto oposto e do cateto adjacente
-# de um triângulo retângulo, caucule e mostre o comprimento da hipotenusa.
-# sem modulo
+# Desafio 017 - Faça um programa que leia o comprimento do cateto oposto e do cateto adjacente de um triângulo retângulo, calcule e mostre o comprimento da hipotenusa.
+# Sem a utilização de módulos.
 
-co = float(input('Comprimento do cateto oposto:'))
-ca = float(input('Comprimento do cateto adjacente:'))
-hi = (co **2 + ca **2) **(1/2)
-print(' A hipotenusa vai medir {:.2f}:'.format(hi))
+cateto_oposto = float(input('Digite o comprimento do cateto oposto: '))
+cateto_adjacente = float(input('Digite o comprimento do tato adjacente: '))
+hipotenusa = (cateto_oposto **2 + cateto_adjacente **2) **(1/2)
+print(f'A hipotenusa vai medir: {hipotenusa:.2f}')

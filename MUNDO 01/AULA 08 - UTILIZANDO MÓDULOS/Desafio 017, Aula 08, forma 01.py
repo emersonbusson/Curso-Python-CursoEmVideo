@@ -1,8 +1,10 @@
-# Desafio 017 ~ Faça um programa que leia o comprimento do cateto oposto e do cateto adjacente de um triângulo retângulo, caucule e mostre o comprimento da hipotenusa.
+# Desafio 017 - Faça um programa que leia o comprimento do cateto oposto e do cateto adjacente de um triângulo retângulo, calcule e mostre o comprimento da hipotenusa.
+
+# Forma utilizando o módulos math e chamando somente a função da raiz quadrada sqrt().
 
 from math import sqrt
-cate_op = float(input('Digite o comprimento do cateto oposto:'))
-cate_ad = float(input('Digite o comprimento do tato adjacente:'))
-soma = cate_op **2 + cate_ad **2
-hipo = sqrt(soma)
-print('Visto que o Cateto Oposto é: {}, e o Cateto Adjacente é: {}, O valor da Hipotenusa é: {:.2f}'.format(cate_op, cate_ad,hipo))
+cateto_oposto = float(input('Digite o comprimento do cateto oposto: '))
+cateto_adjacente = float(input('Digite o comprimento do tato adjacente: '))
+soma_catetos = cateto_oposto **2 + cateto_adjacente **2
+hipotenusa = sqrt(soma_catetos)
+print('O valor da Hipotenusa é: {:.2f}'.format(hipotenusa))
