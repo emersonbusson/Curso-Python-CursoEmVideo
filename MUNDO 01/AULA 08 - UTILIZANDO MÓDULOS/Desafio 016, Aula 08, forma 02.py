@@ -1,5 +1,4 @@
-# Desafio 016 ~ Forma 02
-'''Crie um programa que leia um número real qualquer e mostre na tela sua porção inteira'''
+#Desafio 016 - forma 02 - Crie um programa que leia um número real qualquer e mostre na tela sua porção inteira.
 
-num = float(input('Digite um valor:'))
-print('O valor digitado foi: {} e a sua porção inteira é: {}'.format(num, int(num)))
+numero_real = float(input('Digite um número real: '))
+print('O valor digitado foi: {} e a sua porção inteira é: {}'.format(numero_real, int(numero_real)))
