@@ -1,4 +1,4 @@
-#Desafio 022 - Crie um programa que leia o nome completo de uma pessoa e mostre: O nome com todas as letras maiúsculas, o nome com todas as letras minúsculas, quantas letras ao todo (Sem considerar espaços), quantas letras tem o primeiro nome.
+# Desafio 022 - Crie um programa que leia o nome completo de uma pessoa e mostre: O nome com todas as letras maiúsculas, o nome com todas as letras minúsculas, quantas letras ao todo (Sem considerar espaços), quantas letras tem o primeiro nome.
 
 nome = str(input("Digite o nome completo da pessoa: ")).strip()
 print('Analisando seu nome...')

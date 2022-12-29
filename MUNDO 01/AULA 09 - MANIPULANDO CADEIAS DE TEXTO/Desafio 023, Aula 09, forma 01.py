@@ -1,4 +1,4 @@
-# Desafio 023 - #faça um programa que leia de 0 a 9999 e mostre na tela cada um dos dígitos separados por: unidade, dezena, centena, milhar.
+# Desafio 023 - Faça um programa que leia de 0 a 9999 e mostre na tela cada um dos dígitos separados por: unidade, dezena, centena, milhar.
 
 numero = int(input('Digite o numero desejado:'))
 print('Analisando o número digitado')
