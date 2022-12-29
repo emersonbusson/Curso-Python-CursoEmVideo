@@ -4,11 +4,11 @@ numero = int(input('Digite o numero desejado:'))
 print('Analisando o número digitado')
 unidade = numero//1% 10
 dezena = numero//10% 10
-Centena = numero//100% 10
+centena = numero//100% 10
 milhar = numero//1000% 10
 
-print('Unidade: {}'.format(u))
-print('Dezena: {}'.format(d))
-print('Centena: {}'.format(c))
-print('milhar: {}'.format(m))
+print('Unidade: {}'.format(unidade))
+print('Dezena: {}'.format(dezena))
+print('Centena: {}'.format(centena))
+print('milhar: {}'.format(milhar))
 
