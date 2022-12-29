@@ -85,4 +85,6 @@
 
 - [Desafio 025](https://github.com/emersonbusson/Curso-Python-CursoEmVideo/blob/main/MUNDO%2001/AULA%2009%20-%20MANIPULANDO%20CADEIAS%20DE%20TEXTO/Desafio%20025%2C%20aula%2009%2C%20forma%2001.py) - Crie um programa que leia o nome de uma pessoa e diga se ela tem 'silva' no nome.
 
-- [Desafio 026]() - 
+- [Desafio 026](https://github.com/emersonbusson/Curso-Python-CursoEmVideo/blob/main/MUNDO%2001/AULA%2009%20-%20MANIPULANDO%20CADEIAS%20DE%20TEXTO/Desafio%20026%2C%20Aula%2009%2C%20forma%2001.py) - Faça um programa que leia uma frase pelo teclado e mostre: quantas vezes aparece a letra "A", em que posição ela aparece a primeira vez e em que posição ela aparece a última vez.
+
+- [Desafio 027](https://github.com/emersonbusson/Curso-Python-CursoEmVideo/blob/main/MUNDO%2001/AULA%2009%20-%20MANIPULANDO%20CADEIAS%20DE%20TEXTO/Desafio%20027%2C%20Aula%2009%2C%20forma%2001.py) - Faça um programa que leia o nome completo de uma pessoa, mostrando em seguida o primeiro e o último nome separadamente.
