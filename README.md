@@ -88,3 +88,5 @@
 - [Desafio 026](https://github.com/emersonbusson/Curso-Python-CursoEmVideo/blob/main/MUNDO%2001/AULA%2009%20-%20MANIPULANDO%20CADEIAS%20DE%20TEXTO/Desafio%20026%2C%20Aula%2009%2C%20forma%2001.py) - Faça um programa que leia uma frase pelo teclado e mostre: quantas vezes aparece a letra "A", em que posição ela aparece a primeira vez e em que posição ela aparece a última vez.
 
 - [Desafio 027](https://github.com/emersonbusson/Curso-Python-CursoEmVideo/blob/main/MUNDO%2001/AULA%2009%20-%20MANIPULANDO%20CADEIAS%20DE%20TEXTO/Desafio%20027%2C%20Aula%2009%2C%20forma%2001.py) - Faça um programa que leia o nome completo de uma pessoa, mostrando em seguida o primeiro e o último nome separadamente.
+
+- [Desafio 028](https://github.com/emersonbusson/Curso-Python-CursoEmVideo/blob/main/MUNDO%2001/AULA%2010%20-%20Condi%C3%A7%C3%B5es%20(Parte%201)/Desafio%20028%2C%20aula%2010%2C%20forma%2001.py) - Escreva um programa que faça o computador "pensar" em um número inteiro entre 0 e 5 e peça para o usuário tentar descobrir qual foi o número escolhido pelo computador, o programa deverá escrever na tela se o usuário venceu ou perdeu.
