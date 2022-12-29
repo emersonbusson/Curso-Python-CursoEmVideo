@@ -81,4 +81,8 @@
 - [023/Forma 02](https://github.com/emersonbusson/Curso-Python-CursoEmVideo/blob/main/MUNDO%2001/AULA%2009%20-%20MANIPULANDO%20CADEIAS%20DE%20TEXTO/Desafio%20023%2C%20Aula%2009%2C%20forma%2002%2C.py)
 
 - [Desafio 024](https://github.com/emersonbusson/Curso-Python-CursoEmVideo/blob/main/MUNDO%2001/AULA%2009%20-%20MANIPULANDO%20CADEIAS%20DE%20TEXTO/Desafio%20024%2C%20Aula%2009%2C%20forma%2001.py) - Crie um programa que leia o nome de uma cidade e diga se ela começa ou não com o nome 'santo'.
-- [024/Forma 02]()
+- [024/Forma 02](https://github.com/emersonbusson/Curso-Python-CursoEmVideo/blob/main/MUNDO%2001/AULA%2009%20-%20MANIPULANDO%20CADEIAS%20DE%20TEXTO/Desafio%20024%2C%20Aula%2009%2C%20forma%2002.py)
+
+- [Desafio 025](https://github.com/emersonbusson/Curso-Python-CursoEmVideo/blob/main/MUNDO%2001/AULA%2009%20-%20MANIPULANDO%20CADEIAS%20DE%20TEXTO/Desafio%20025%2C%20aula%2009%2C%20forma%2001.py) - Crie um programa que leia o nome de uma pessoa e diga se ela tem 'silva' no nome.
+
+- [Desafio 026]() - 
