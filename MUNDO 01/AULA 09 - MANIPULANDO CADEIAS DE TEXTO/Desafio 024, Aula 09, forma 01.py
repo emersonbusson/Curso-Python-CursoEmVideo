@@ -3,4 +3,3 @@
 nome_cidade = str(input('Digite o nome da cidade: ')).strip().upper()
 print('Analisando...')
 print('O nome da Cidade digitada é: {}, o nome "santo" existe? {}'.format(nome_cidade, 'SANTO' in nome_cidade))
-
