@@ -1,23 +1,13 @@
-
-'''FAÇA UM PROGRAMA QUE LEIA UM ANO QUALQUER E MOSTRE SE ELE É BISEXTO'''
-
+# Desafio 032 - Faça um programa que leia um ano qualquer e mostre se ele é bissexto.
 
 import datetime
 import time
 
-print('___'*20)
-anobisexto = int(input('Digite o Ano Desejado ou ZERO(0) para Analisar o Ano Atual: '.title()))
-print('___' *20)
-print('PROCESSANDO E CALCULANDO INFORMAÇÕES PARA OBTENÇÃO DO RESULTADO...')
-time.sleep(2)
-print('___' *20)
+ano_bisexto = int(input('digite o ano desejado ou Zero(0) para analisar o ano atual: '))
 
-
-if anobisexto == 0:
-    anobisexto = datetime.date.today().year
-if  anobisexto %4 == 0 and anobisexto %100 != 0 or anobisexto % 400 == 0:
-    print('O ANO DE {:.0f} É BISEXTO.'.format(anobisexto))
+if ano_bisexto == 0:
+    ano_bisexto = datetime.date.today().year
+if  ano_bisexto %4 == 0 and ano_bisexto %100 != 0 or ano_bisexto % 400 == 0:
+    print('O ANO DE {:.0f} É BISEXTO.'.format(ano_bisexto))
 else:
-    print('O ANO DE {:.0f} NÃO É BISEXTO.'.format(anobisexto))
-
-
+    print('O ANO DE {:.0f} NÃO É BISEXTO.'.format(ano_bisexto))
