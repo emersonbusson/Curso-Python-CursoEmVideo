@@ -98,3 +98,7 @@
 - [Desafio 031](https://github.com/emersonbusson/Curso-Python-CursoEmVideo/blob/main/MUNDO%2001/AULA%2010%20-%20Condi%C3%A7%C3%B5es%20(Parte%201)/Desafio%20031%2C%20Aula%20%2C%20Forma%2001.py) - Desenvolva um programa que pergunte a distância de uma viagem em km. Calcule o preço da passagem, cobrando R$ 0,50 por km para viagens de até 200 km e R$ 0,45 para viagens mais longas.
 
 - [Desafio 032](https://github.com/emersonbusson/Curso-Python-CursoEmVideo/blob/main/MUNDO%2001/AULA%2010%20-%20Condi%C3%A7%C3%B5es%20(Parte%201)/Desafio%20032%2C%20Aula%2010%2C%20forma%2001.py) - Faça um programa que leia um ano qualquer e mostre se ele é bissexto.
+
+- [Desafio 033](https://github.com/emersonbusson/Curso-Python-CursoEmVideo/blob/main/MUNDO%2001/AULA%2010%20-%20Condi%C3%A7%C3%B5es%20(Parte%201)/Desafio%20033%2C%20Aula%20010%2C%20forma%2001.py) - Faça um programa que leia 3 números e mostre qual é o maior e qual é o menor.
+- [033/Forma 02](https://github.com/emersonbusson/Curso-Python-CursoEmVideo/blob/main/MUNDO%2001/AULA%2010%20-%20Condi%C3%A7%C3%B5es%20(Parte%201)/Desafio%20033%2C%20Aula%20010%2C%20forma%2002.py)
+
