@@ -3,7 +3,7 @@
 import datetime
 import time
 
-ano_bisexto = int(input('digite o ano desejado ou Zero(0) para analisar o ano atual: '))
+ano_bisexto = int(input('Digite o ano desejado ou Zero(0) para analisar o ano atual: '))
 
 if ano_bisexto == 0:
     ano_bisexto = datetime.date.today().year
