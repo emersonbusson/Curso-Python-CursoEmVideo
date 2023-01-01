@@ -15,8 +15,8 @@ print('Muito prazer em te conhecer:{}{}{} '.format('\33[4:35m' ,nome1, '\33[m'))
 
 ## OUTRO EXEMPLO DE CORES COM VARIAVEIS.
 
-print('MUITO PRAZER EM TE CONHERCER 001:{}{}{}'.format(cores['pretoebranco'], nome2 , cores['limpa']))
+print('MUITO PRAZER EM TE CONHERCER 001: {}{}{}'.format(cores['pretoebranco'], nome2 , cores['limpa']))
 
 print('MUITO PRAZER EM TE CONHECER 002: {}{}{}'.format(cores['amarelo'], nome4 , cores['limpa']))
 
-print('MUITO PRAZER EM TE CONHECER 003:{}{}{}'.format(cores['azul'], nome3 , cores['limpa']))
+print('MUITO PRAZER EM TE CONHECER 003: {}{}{}'.format(cores['azul'], nome3 , cores['limpa']))
