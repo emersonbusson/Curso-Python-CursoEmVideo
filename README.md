@@ -102,5 +102,6 @@
 - [Desafio 033](https://github.com/emersonbusson/Curso-Python-CursoEmVideo/blob/main/MUNDO%2001/AULA%2010%20-%20Condi%C3%A7%C3%B5es%20(Parte%201)/Desafio%20033%2C%20Aula%20010%2C%20forma%2001.py) - Faça um programa que leia 3 números e mostre qual é o maior e qual é o menor.
 - [033/Forma 02](https://github.com/emersonbusson/Curso-Python-CursoEmVideo/blob/main/MUNDO%2001/AULA%2010%20-%20Condi%C3%A7%C3%B5es%20(Parte%201)/Desafio%20033%2C%20Aula%20010%2C%20forma%2002.py)
 
-- [Desafio 034]() - 
+- [Desafio 034](https://github.com/emersonbusson/Curso-Python-CursoEmVideo/blob/main/MUNDO%2001/AULA%2010%20-%20Condi%C3%A7%C3%B5es%20(Parte%201)/Desafio%20034%2C%20Aula%2010%2C%20forma%2001.py) - Escreva um programa que pergunte o salário de um funcionário e calcule o valor do seu aumento. Para salários superiores a R$1250,00, calcule um aumento de 10%. Para os inferiores ou iguais, o aumento é de 15%. 
 
+- [Desafio 035](https://github.com/emersonbusson/Curso-Python-CursoEmVideo/blob/main/MUNDO%2001/AULA%2010%20-%20Condi%C3%A7%C3%B5es%20(Parte%201)/Desafio%20035%2C%20Aula%20010%2C%20forma%2001.py) - Desenvolva um programa que leia o comprimento de três retas e diga ao usuário se elas podem formar um triângulo ou não.
