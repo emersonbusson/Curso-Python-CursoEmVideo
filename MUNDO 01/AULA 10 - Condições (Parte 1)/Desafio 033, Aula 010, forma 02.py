@@ -1,22 +1,23 @@
-'''FAÇA UM PROGRAMA QUE LEIA 3 NÚMEROS E MOSTRE QUAL É O MAIOR E QUAL É O MENOR.'''
+# Desafio 033 - Faça um programa que leia 3 números e mostre qual é o maior e qual é o menor.
+# Utilizando if
 
-n1 = float(input('Digite o primeiro valor:'))
-n2 = float(input('Digite o segundo valor:'))
-n3 = float(input('Digite o terceiro valor:'))
+valor1 = float(input('Digite o primeiro valor:'))
+valor2 = float(input('Digite o segundo valor:'))
+valor3 = float(input('Digite o terceiro valor:'))
 
-menor = n1
+menor = valor1
 
-if n2 < n1 and n2 < n3:
-    menor = n2
-if n3 < n1 and n3 < n2:
-    menor = n3
+if valor2 < valor1 and valor2 < valor3:
+    menor = valor2
+if valor3 < valor1 and valor3 < valor2:
+    menor = valor3
 
-maior = n1
+maior = valor1
 
-if n2 > n1 and n2 > n3:
-    maior = n2
-if n3 > n1 and n3 > n2:
-    maior = n3
+if valor2 > valor1 and valor2 > valor3:
+    maior = valor2
+if valor3 > valor1 and valor3 > valor2:
+    maior = valor3
 
 print('O Menor Valor é {}.'.format(menor))
 print('O Maior Valor é {}'.format(maior))

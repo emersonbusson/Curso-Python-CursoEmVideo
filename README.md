@@ -102,3 +102,5 @@
 - [Desafio 033](https://github.com/emersonbusson/Curso-Python-CursoEmVideo/blob/main/MUNDO%2001/AULA%2010%20-%20Condi%C3%A7%C3%B5es%20(Parte%201)/Desafio%20033%2C%20Aula%20010%2C%20forma%2001.py) - Faça um programa que leia 3 números e mostre qual é o maior e qual é o menor.
 - [033/Forma 02](https://github.com/emersonbusson/Curso-Python-CursoEmVideo/blob/main/MUNDO%2001/AULA%2010%20-%20Condi%C3%A7%C3%B5es%20(Parte%201)/Desafio%20033%2C%20Aula%20010%2C%20forma%2002.py)
 
+- [Desafio 034]() - 
+
