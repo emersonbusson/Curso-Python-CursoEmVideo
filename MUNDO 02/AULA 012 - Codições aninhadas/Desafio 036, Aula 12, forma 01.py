@@ -1,46 +1,21 @@
-'''Escreva um programa para aprovar o empréstimo bancário para compra de uma casa.'''
-'''O programa vai perguntar o valor da casa, o sálario do comprador e em quantos anos ele vai pagar. '''
+# Desafio 036 - Escreva um programa para aprovar o empréstimo bancário para a compra de uma casa. Pergunte o valor da casa, o salário do comprador e em quantos anos ele vai pagar. A prestação mensal não pode exceder 30% do salário ou então o empréstimo será negado.
 
-'''Calcule o valor da prestação mensal, sabendo que ela não pode exceder 30% do sálario  ou então o emprestimo será negado.'''
-import time
+valor_casa = float(input('Qual é o valor da casa: '))
 
-print('\33[31m-=' * 50)
+salario = float(input('Qual o valor do seu ganho mensal R$: '))
 
-valordacasa = float(input('qual é o valor em R$ da casa que você deseja comprar?'.title()))
+idade = int(input('Qual a sua idade atual: '))
 
-print('\33[32m-=' * 50)
+anos_financiamento = float(input('Em quantos anos você vai financiar a casa: '))
 
-salario = float(input('qual o valor do seu ganho mensal em R$?'.title()))
+# calcula 30% do salário e armazena o resultado em na variável.
+porcentagem30salario = (salario *30 / 100)
+# calcula o número de meses em um determinado número de anos e armazena o resultado na variavel.
+meses_financiamento = (anos_financiamento * 12)
+# o valor da prestação mensal dividindo o valor total da casa pelo número de meses de financiamento e armazena o resultado na variável.
+prestacao = (valor_casa / meses_financiamento)
 
-print('\33[35m-=' * 50)
-
-idade = int(input('qual a sua idade atual? '.title()))
-
-print('\33[33m-=' *50)
-
-qtosAnos = float(input('em quantos anos você vai financiar a casa?'.title()))
-
-print('\33[37m-=\33[m' *50)
-
-
-print('\33[31mCALCULANDO AS INFORMAÇÕES, \33[4:33m"AVISO: VOCÊ TEM DE ESTÁ CIENTE QUE O VALOR MENSAL DAS PRESTAÇÕES NÃO PODEM ULTRAPASSAR DE 30% DO SEU SÁLARIO R$: {:.1f}.\33[35m POR FAVOR, AGUARDE.....\33[m'.format(salario))
-time.sleep(3)
-
-porcentosalario = (salario *30 / 100)
-
-mesesfinanciamento = (qtosAnos * 12)
-
-prestacao = (valordacasa / mesesfinanciamento)
-
-if prestacao < porcentosalario:
- print('Para pagar uma casa de R$ {:.2f}, em {:.0f} anos, a prestação será de R${:.2f}, (financiamento aprovado), parabéns.'.title().format(valordacasa, qtosAnos, prestacao))
-
-elif prestacao > porcentosalario:
- print('Para pagar uma casa de R$ {:.2f}, em {:.0f} anos, a prestação será de R${:.2f}, (financiamento negado), sentimos muito.'.title().format(valordacasa, qtosAnos, prestacao))
-
-print('\33[7m..EXTRAINDO RESUMO..\33[m' *3)
-
-print('30% do sálaro do comprador é R$: {:.2f}'.title().format(porcentosalario))
-print('A quantidade de meses de financiamento é de: {:.0f} meses.'.title().format(mesesfinanciamento))
-print('O valor da prestação é de R$: {:.2f}.'.title().format(prestacao))
-
+if prestacao < porcentagem30salario:
+    print('Para pagar uma casa de R$ {:.2f} em {:.0f} anos a prestação será de R$ {:.2f} \33[34m30% salário R$ {}\33[m -> (financiamento aprovado) parabéns.'.format(valor_casa, anos_financiamento, prestacao, porcentagem30salario))
+else:
+    print('Para pagar uma casa de R$ {:.2f} em {:.0f} anos a prestação será de R${:.2f} \33[31m30% salário R$ {}\33[m -> (financiamento negado) sentimos muito.'.format(valor_casa, anos_financiamento, prestacao, porcentagem30salario))
