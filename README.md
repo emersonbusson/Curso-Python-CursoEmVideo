@@ -1,40 +1,27 @@
 ![header](https://github.com/emersonbusson/Curso-Python-CursoEmVideo/blob/main/imagens/imagem%20readme.png)
 
-# Informações importantes:
+# Trata-se de um total de 115 desafios &#x1F40D;
+## Informações Importantes
 
-## Trata-se de um total de 115 desafios &#x1F40D;
+- Alguns dos exercícios terão arquivos '.py' adicionais que apresentarão soluções alternativas para o mesmo problema.
 
-### A maioria dos exercícios vão ter outros **arquivos ".py"** com as seguintes informações:
-
-#### forma 01, forma 02 ou forma 03...
-
-##### Por exemplo:
-
-- Desafio 095, Aula 19,**forma 01**.py
-- Desafio 094, Aula 19,**forma 02**.py
-
-### O professor lança os desafios e depois os resolve, minha solução para o problema geralmente está descrito como "forma 01 ou forma 02(caso tenha mais de duas formas, se você ao entrar no exercicio de verificar que existe duas os mais formas, a solução do professor sempre será a última forma.
+- Por exemplo, para o desafio 095 da aula 19, poderão existir os arquivos 'forma 01.py' e 'forma 02.py', se você encontrar mais de duas formas de resolver o exercício, a solução do professor sempre será apresentada na última delas.
 
 # Lista de exercícios
-
-### Conhecendo a Linguagem
-
+## MUNDO 1
+### Aulas 01 a 05 - Conhecendo a Linguagem
 
 - [Desafio 001](https://github.com/emersonbusson/Curso-Python-CursoEmVideo/blob/main/MUNDO%2001/AULA%2001%20-%2005%20-%20CONHECENDO%20A%20LINGUAGEM/Desafio%20001.py) - Crie um programa que escreva "Olá Mundo!" na Tela.
 
 - [Desafio 002](https://github.com/emersonbusson/Curso-Python-CursoEmVideo/blob/main/MUNDO%2001/AULA%2001%20-%2005%20-%20CONHECENDO%20A%20LINGUAGEM/Desafio%20002.py) - Faça um programa que leia nome de uma pessoa e mostre uma mensagem de boas-vindas.
 
-
-### Primeiros passos - Tipos Primitivos
-
+### Aula 06 - Tipos Primitivos
 
 - [Desafio 003](https://github.com/emersonbusson/Curso-Python-CursoEmVideo/blob/main/MUNDO%2001/AULA%2006%20-%20TIPOS%20PRIMITIVOS/Desafio%20003.py) - Crie um programa que leia dois números e mostre a soma entre eles.
 
 - [Desafio 004](https://github.com/emersonbusson/Curso-Python-CursoEmVideo/blob/main/MUNDO%2001/AULA%2006%20-%20TIPOS%20PRIMITIVOS/Desafio%20004.py) - Faça um programa que leia algo pelo teclado e mostre na tela o seu tipo primitivo e todas as informações possíveis sobre ele.
 
-
-### Cálculos e Operações - Operadores Aritméticos
-
+### Aula 07 - Operadores Aritméticos
 
 - [Desafio 005](https://github.com/emersonbusson/Curso-Python-CursoEmVideo/blob/main/MUNDO%2001/AULA%2007%20-%20OPERADORES%20ARITIM%C3%89DICOS/Desafio%20005%2C%20Aula%2007.py) - Faça um programa que leia um número inteiro e mostre na tela o seu sucessor e o seu antecessor.
 
@@ -58,6 +45,8 @@
 
 - [Desafio 015](https://github.com/emersonbusson/Curso-Python-CursoEmVideo/blob/main/MUNDO%2001/AULA%2007%20-%20OPERADORES%20ARITIM%C3%89DICOS/Desafio%20015%20Aula%2007.py) - Escreva um programa que pergunte a quantidade de km percorridos por um carro alugado e a quantidade de dias pelos quais ele foi alugado. Calcule o preço a pagar, sabendo que o carro custa R$ 60 dia e R$ 0,15 por km rodado.
 
+### Aula 08 - Utilizando Módulos
+
 - [Desafio 016](https://github.com/emersonbusson/Curso-Python-CursoEmVideo/blob/main/MUNDO%2001/AULA%2008%20-%20UTILIZANDO%20M%C3%93DULOS/Desafio%20016%2C%20Aula%2008%2C%20forma%2001.py) - Crie um programa que leia um número real qualquer e mostre na tela sua porção inteira.
 - [016/Forma 02](https://github.com/emersonbusson/Curso-Python-CursoEmVideo/blob/main/MUNDO%2001/AULA%2008%20-%20UTILIZANDO%20M%C3%93DULOS/Desafio%20016%2C%20Aula%2008%2C%20forma%2002.py)
 
@@ -75,6 +64,8 @@
 - [Desafio 021](https://github.com/emersonbusson/Curso-Python-CursoEmVideo/blob/main/MUNDO%2001/AULA%2008%20-%20UTILIZANDO%20M%C3%93DULOS/Desafio%20021%2C%20Aula%2008%2C%20forma%2001.py) - Faça um programa em python que abra e reproduza o áudio de um arquivo.mp3.
 - [021/Forma 02](https://github.com/emersonbusson/Curso-Python-CursoEmVideo/blob/main/MUNDO%2001/AULA%2008%20-%20UTILIZANDO%20M%C3%93DULOS/Desafio%2021%2C%20Aula%2008%2C%20forma%2002.py)
 
+### Aula 09 - Manipulando Cadeias de Texto
+
 - [Desafio 022](https://github.com/emersonbusson/Curso-Python-CursoEmVideo/blob/main/MUNDO%2001/AULA%2009%20-%20MANIPULANDO%20CADEIAS%20DE%20TEXTO/Desafio%20022%2C%20Aula%20%2009%2C%20Forma%2001.py) - Crie um programa que leia o nome completo de uma pessoa e mostre: O nome com todas as letras maiúsculas, o nome com todas as letras minúsculas, quantas letras ao todo (Sem considerar espaços), quantas letras tem o primeiro nome.
 
 - [Desafio 023](https://github.com/emersonbusson/Curso-Python-CursoEmVideo/blob/main/MUNDO%2001/AULA%2009%20-%20MANIPULANDO%20CADEIAS%20DE%20TEXTO/Desafio%20023%2C%20Aula%2009%2C%20forma%2001.py) - Faça um programa que leia de 0 a 9999 e mostre na tela cada um dos dígitos separados por: unidade, dezena, centena, milhar.
@@ -88,6 +79,8 @@
 - [Desafio 026](https://github.com/emersonbusson/Curso-Python-CursoEmVideo/blob/main/MUNDO%2001/AULA%2009%20-%20MANIPULANDO%20CADEIAS%20DE%20TEXTO/Desafio%20026%2C%20Aula%2009%2C%20forma%2001.py) - Faça um programa que leia uma frase pelo teclado e mostre: quantas vezes aparece a letra "A", em que posição ela aparece a primeira vez e em que posição ela aparece a última vez.
 
 - [Desafio 027](https://github.com/emersonbusson/Curso-Python-CursoEmVideo/blob/main/MUNDO%2001/AULA%2009%20-%20MANIPULANDO%20CADEIAS%20DE%20TEXTO/Desafio%20027%2C%20Aula%2009%2C%20forma%2001.py) - Faça um programa que leia o nome completo de uma pessoa, mostrando em seguida o primeiro e o último nome separadamente.
+
+### Aula 10 - Condições 
 
 - [Desafio 028](https://github.com/emersonbusson/Curso-Python-CursoEmVideo/blob/main/MUNDO%2001/AULA%2010%20-%20Condi%C3%A7%C3%B5es%20(Parte%201)/Desafio%20028%2C%20aula%2010%2C%20forma%2001.py) - Escreva um programa que faça o computador "pensar" em um número inteiro entre 0 e 5 e peça para o usuário tentar descobrir qual foi o número escolhido pelo computador, o programa deverá escrever na tela se o usuário venceu ou perdeu.
 
@@ -105,3 +98,12 @@
 - [Desafio 034](https://github.com/emersonbusson/Curso-Python-CursoEmVideo/blob/main/MUNDO%2001/AULA%2010%20-%20Condi%C3%A7%C3%B5es%20(Parte%201)/Desafio%20034%2C%20Aula%2010%2C%20forma%2001.py) - Escreva um programa que pergunte o salário de um funcionário e calcule o valor do seu aumento. Para salários superiores a R$1250,00, calcule um aumento de 10%. Para os inferiores ou iguais, o aumento é de 15%. 
 
 - [Desafio 035](https://github.com/emersonbusson/Curso-Python-CursoEmVideo/blob/main/MUNDO%2001/AULA%2010%20-%20Condi%C3%A7%C3%B5es%20(Parte%201)/Desafio%20035%2C%20Aula%20010%2C%20forma%2001.py) - Desenvolva um programa que leia o comprimento de três retas e diga ao usuário se elas podem formar um triângulo ou não.
+
+### Aula 11 - Cores no Terminal
+
+- [Aula 011](https://github.com/emersonbusson/Curso-Python-CursoEmVideo/blob/main/MUNDO%2001/AULA%2011%20-%20Cores%20no%20Terminal/Aula%20011%2C%20CORES%20EXEMPLOS%2C%20N%C3%83O%20TEM%20DESAFIOS.py) - Exemplos de cores, não tem desafios.
+
+### Aula 12 - Condições Aninhadas
+
+- [Desafio 036]() - Escreva um programa para aprovar o empréstimo bancário para a compra de uma casa. Pergunte o valor da casa, o salário do comprador e em quantos anos ele vai pagar. A prestação mensal não pode exceder 30% do salário ou então o empréstimo será negado.
+
