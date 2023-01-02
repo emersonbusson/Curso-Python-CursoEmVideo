@@ -1,24 +1,20 @@
-'''
-Faça um programa que leia o ano de nascimento de um jovem e informe, de acordo com sua idade:
-- se ele ainda vai se alistar no serviço militar.
-- se é a hora de se alistar.
-- se já passou do tempo de alistamento.
-Seu programa também, deverá mostrar o tempo que falta ou que passou do prazo.
-'''
+# Desafio 039 - Faça um programa que leia o ano de nascimento de um jovem e informe, de acordo com a sua idade, se ele ainda vai se alistar ao serviço militar, se é a hora exata de se alistar ou se já passou do tempo do alistamento. Seu programa também deverá mostrar o tempo que falta ou que passou do prazo.
+
+# utilizando o módulo datetime.
+
 import datetime
 
-dias_atuais = datetime.date.today().year
-ano_nascimento_user = int(input('Digite o ano de seu nascimento: '.title()))
-calculo = (dias_atuais - ano_nascimento_user)
+ano_atual = datetime.date.today().year
+ano_nascimento = int(input('Digite o ano de seu nascimento: '))
+idade_user = (ano_atual - ano_nascimento)
 
-if calculo == 18:
-    print('você tem que fazer o alistamento militar imediatamente!!'.upper())
+if idade_user == 18:
+    print('Você tem que fazer o alistamento militar imediatamente!')
 
-elif calculo < 18:
-    print('Você não tem 18 anos, ainda faltam: {} anos para o seu alistamento Militar.'.format(18 - calculo).title())
+elif idade_user < 18:
+    print('Você não tem 18 anos e ainda faltam {} anos para o seu alistamento militar.'.format(18 - idade_user))
+    
+elif idade_user > 18:
+    print('Você já deveria ter se alistado no serviço militar a {} anos. '.format(idade_user - 18))
 
-elif calculo > 18:
-    print('Você já deveria ter se alistado a {} anos. '.format(calculo - 18).title())
-
-print('Quem nasceu em: {}, você tem {} anos em {}.'.format(ano_nascimento_user, calculo, dias_atuais).title())
-
+print('Quem nasceu em {} tem {} anos em {}.'.format(ano_nascimento, idade_user, ano_atual))

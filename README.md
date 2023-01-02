@@ -105,5 +105,14 @@
 
 ### Aula 12 - Condições Aninhadas
 
-- [Desafio 036]() - Escreva um programa para aprovar o empréstimo bancário para a compra de uma casa. Pergunte o valor da casa, o salário do comprador e em quantos anos ele vai pagar. A prestação mensal não pode exceder 30% do salário ou então o empréstimo será negado.
+- [Desafio 036](https://github.com/emersonbusson/Curso-Python-CursoEmVideo/blob/main/MUNDO%2002/AULA%20012%20-%20Codi%C3%A7%C3%B5es%20aninhadas/Desafio%20036%2C%20Aula%2012%2C%20forma%2001.py) - Escreva um programa para aprovar o empréstimo bancário para a compra de uma casa. Pergunte o valor da casa, o salário do comprador e em quantos anos ele vai pagar. A prestação mensal não pode exceder 30% do salário ou então o empréstimo será negado.
+
+- [Desafio 037](https://github.com/emersonbusson/Curso-Python-CursoEmVideo/blob/main/MUNDO%2002/AULA%20012%20-%20Codi%C3%A7%C3%B5es%20aninhadas/Desafio%20037%2C%20Aula%20012%2C%20forma%2001.py) - Escreva um programa em Python que leia um número inteiro qualquer e peça para o usuário escolher qual será a base de conversão: 1 para binário, 2 para octal e 3 para hexadecimal.
+
+- [Desafio 038](https://github.com/emersonbusson/Curso-Python-CursoEmVideo/blob/main/MUNDO%2002/AULA%20012%20-%20Codi%C3%A7%C3%B5es%20aninhadas/Desafio%20038%2C%20Aula%20012%2C%20forma%2001.py) - Escreva um programa que leia dois números inteiros e compare-os, exibindo uma mensagem indicando qual é o maior ou, caso os dois sejam iguais, informando que não existe um valor maior.
+
+- [Desafio 039](https://github.com/emersonbusson/Curso-Python-CursoEmVideo/blob/main/MUNDO%2002/AULA%20012%20-%20Codi%C3%A7%C3%B5es%20aninhadas/Desafio%20039%2C%20Aula%20012%2C%20forma%2001.py) - Faça um programa que leia o ano de nascimento de um jovem e informe, de acordo com a sua idade, se ele ainda vai se alistar ao serviço militar, se é a hora exata de se alistar ou se já passou do tempo do alistamento. Seu programa também deverá mostrar o tempo que falta ou que passou do prazo.
+- [039/Forma 02](https://github.com/emersonbusson/Curso-Python-CursoEmVideo/blob/main/MUNDO%2002/AULA%20012%20-%20Codi%C3%A7%C3%B5es%20aninhadas/Desafio%20039%2C%20Aula%20012%2C%20forma%2002.py)
+
+- [Desafio 040]() - 
 
