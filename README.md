@@ -5,8 +5,7 @@
 
 - Alguns dos exercícios terão arquivos '.py' adicionais que apresentarão soluções alternativas para o mesmo problema.
 
-- Por exemplo, para o desafio 095 da aula 19, poderão existir os arquivos 'forma 01.py' e 'forma 02.py', se você encontrar mais de duas formas de resolver o exercício, a solução do professor sempre será apresentada na última delas.
-
+- Por exemplo, para o desafio 095 da aula 19, poderão existir os arquivos 'forma 01.py' e 'forma 02.py'.
 # Lista de exercícios
 ## MUNDO 1
 ### Aulas 01 a 05 - Conhecendo a Linguagem
@@ -116,5 +115,8 @@
 
 - [Desafio 040](https://github.com/emersonbusson/Curso-Python-CursoEmVideo/blob/main/MUNDO%2002/AULA%20012%20-%20Codi%C3%A7%C3%B5es%20aninhadas/Desafio%20040%2C%20Aula%20012%2C%20forma%2001.py) - Crie um programa que leia duas notas de um aluno e calcule sua média. Se a média for abaixo de 5.0, a mensagem exibida deve ser "REPROVADO". Se a média estiver entre 5.0 e 6.9, a mensagem exibida deve ser "RECUPERAÇÃO". Caso contrário, se a média for 7.0 ou superior, a mensagem exibida deve ser "APROVADO".
 
-- [Desafio 041](https://github.com/emersonbusson/Curso-Python-CursoEmVideo/blob/main/MUNDO%2002/AULA%20012%20-%20Codi%C3%A7%C3%B5es%20aninhadas/Desafio%20041%2C%20Aula%2012%2C%20forma%2001.py) - A Confederação Nacional de Natação precisa de um programa que leia o ano de nascimento de um atleta e, de acordo com sua idade, exiba a sua categoria: até 9 anos a categoria é "MIRIM", até 14 anos a categoria é "INFANTIL", até 19 anos a categoria é "JÚNIOR", até 25 anos a categoria é "SÊNIOR" e acima de 25 anos a categoria é "MASTER".
+- [Desafio 041](https://github.com/emersonbusson/Curso-Python-CursoEmVideo/blob/main/MUNDO%2002/AULA%20012%20-%20Codi%C3%A7%C3%B5es%20aninhadas/Desafio%20041%2C%20Aula%20012%2C%20forma%2001.py) - A Confederação Nacional de Natação precisa de um programa que leia o ano de nascimento de um atleta e, de acordo com sua idade, exiba a sua categoria: até 9 anos a categoria é "MIRIM", até 14 anos a categoria é "INFANTIL", até 19 anos a categoria é "JÚNIOR", até 25 anos a categoria é "SÊNIOR" e acima de 25 anos a categoria é "MASTER".
 
+- [Desafio 042](https://github.com/emersonbusson/Curso-Python-CursoEmVideo/blob/main/MUNDO%2002/AULA%20012%20-%20Codi%C3%A7%C3%B5es%20aninhadas/Desafio%20042%2C%20complemento%20do%20desafio%2035%2C%20Refar%C3%A7a%20o%20Desafio%20035.py) - Refazer o desafio 035 de triângulos, adicionando a funcionalidade de identificar o tipo de triângulo formado: se todos os lados são iguais, trata-se de um triângulo EQUILÁTERO; se dois lados são iguais, trata-se de um triângulo ISÓSCELES; se todos os lados são diferentes, trata-se de um triângulo ESCALENO."
+
+- [Desafio 043](https://github.com/emersonbusson/Curso-Python-CursoEmVideo/blob/main/MUNDO%2002/AULA%20012%20-%20Codi%C3%A7%C3%B5es%20aninhadas/Desafio%20043%2C%20Aula%20012%2C%20forma%2001.py) - Desenvolva uma lógica que leia o peso e altura de uma pessoa, calcule seu IMC e mostre seu status de acordo com a tabela abaixo: abaixo de 18.5: abaixo do peso; entre 18.5 e 25: peso ideal; de 25 até 30: sobrepeso; de 30 até 40: obesidade; acima de 40: obesidade mórbida.
