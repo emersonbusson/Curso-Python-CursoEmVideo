@@ -4,19 +4,15 @@ primeira_nota = int(input('Digite a primeira nota do aluno:'))
 
 segunda_nota = int(input('Digite a segunda nota do aluno:'))
 
-
 media_aluno = (primeira_nota + segunda_nota) / 2
 
 if media_aluno >= 7.0:
-    print('O aluno tirou as notas: {} e {}, sendo a media {}, Aluno Aprovado.'.format(
-        primeira_nota, segunda_nota, media_aluno))
+    print('O aluno tirou as notas: {} e {}, sendo a media {}, Aluno Aprovado.'.format(primeira_nota, segunda_nota, media_aluno))
 
 elif media_aluno >= 5.0 or media_aluno >= 6.9:
-    print('O aluno tirou as notas: {} e {}, sendo a média {}, Aluno em recuperação'.format(
-        primeira_nota, segunda_nota, media_aluno))
+    print('O aluno tirou as notas: {} e {}, sendo a média {}, Aluno em recuperação'.format(primeira_nota, segunda_nota, media_aluno))
 
 elif media_aluno < 5.0:
-    print('O Aluno tirou as notas: {} e {}, sendo a média {}, Aluno Reprovado'.format(
-        primeira_nota, segunda_nota, media_aluno))
+    print('O Aluno tirou as notas: {} e {}, sendo a média {}, Aluno Reprovado'.format(primeira_nota, segunda_nota, media_aluno))
 
 # OUTRAS FORMA:   if 7 > media_aluno >= 5:

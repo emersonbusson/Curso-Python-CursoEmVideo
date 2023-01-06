@@ -11,7 +11,7 @@ reta3 = float(input('DIGITE O VALOR DA TERCEIRO SEGMENTO(RETA): '))
 print('___'*20)
 
 import time
-print('CALCULANDO.......')
+print('CALCULANDO...')
 time.sleep(2)
 print('-='*25)
 if (reta1 + reta2) > reta3 and (reta3 + reta2) > reta1 and (reta1 + reta3) > reta2:

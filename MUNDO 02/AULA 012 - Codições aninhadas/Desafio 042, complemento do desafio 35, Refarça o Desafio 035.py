@@ -1,38 +1,27 @@
-'''Refarça o Desafio 035, dos triângulos, acrecetando o recurso de mostar que tipo de triângulo será formado:'''
-# Equílatero: todos os lados iguais.
-# ISósceles: dois lados iguais.
-# Escaleno: todos os lados diferentes.
+#Desafio 042 - Refazer o desafio 035 de triângulos, adicionando a funcionalidade de identificar o tipo de triângulo formado: se todos os lados são iguais, trata-se de um triângulo EQUILÁTERO; se dois lados são iguais, trata-se de um triângulo ISÓSCELES; se todos os lados são diferentes, trata-se de um triângulo ESCALENO."
 
 import time
 
-print('___'*20)
-print('TRIANGULAR ANALISADOR')
-print('___'*20)
-r1 = float(input('DIGITE O VALOR DO PRIMEIRO SEGMENTO(RETA):'))
-print('___'*20)
-r2 = float(input('DIGITE O VALOR DA SEGUNDO SEGEMENTO(RETA):'))
-print('___'*20)
-r3 = float(input('DIGITE O VALOR DA TERCEIRO SEGMENTO(RETA):'))
-print('___'*20)
+print(f'{("TRIANGULAR ANALISADOR"):=^50}')
 
+reta_ladoA = float(input('Digite o lado "A" do triângulo: '))
+print()
+reta_ladoB = float(input('Digite o lado "B" do triângulo: '))
+print()
+reta_ladoC = float(input('Digite o lado "C" do triângulo: '))
+print()
 print('CALCULANDO.......')
-time.sleep(2)
-print('-='*25)
+time.sleep(1.5)
+print()
 
-
-if (r1 + r2) > r3 and (r3 + r2) > r1 and (r1 + r3) > r2:
-     print('OS SEGMENTOS CITADOS, PODEM FORMAR UM TRIANGULO! ')
-     if r1 == r2 and r3 == r1 and r3 == r2:
-        print('Este é: #Equilátero.')
-     elif r1 != r2 and r3 != r1 and r3 != r2:
-        print('Este é: #Escaleno.')
+if (reta_ladoA < (reta_ladoB + reta_ladoC)) and (reta_ladoB < (reta_ladoA + reta_ladoC)) and (reta_ladoC < (reta_ladoA + reta_ladoB)):
+     print('Os segmentos citados, podem formar um triângulo!')
+     print()
+     if reta_ladoA == reta_ladoB == reta_ladoC:
+        print('Este triângulo é: #EQUILATERO - um triângulo com lados de comprimento igual. ')
+     elif reta_ladoA != reta_ladoB and reta_ladoC != reta_ladoA and reta_ladoC != reta_ladoB:
+        print('Este triângulo é: #ESCALENO - um triângulo com todos os lados de comprimento diferente.')
      else:
-        print('Este é: #ISósceles ')
+        print('Este triângulo é: #ISÓSCELES - um triângulo com pelo menos dois lados de comprimento igual.')
 else:
-    print('OS SEGMENTOS CITADOS, NÃO PODEM FORMATAR UM TRIANGULO')
-
-''' if r1 == r2 == r3:
-        
-     elif r1 != r2 != r3 != r1:
-        print('Este é: #Escaleno.')'''
-#outra forma de utilizar os operadores relacionais sem escrever os operadores logicos.
+    print('os segmentos citados, não podem formar um triângulo')
