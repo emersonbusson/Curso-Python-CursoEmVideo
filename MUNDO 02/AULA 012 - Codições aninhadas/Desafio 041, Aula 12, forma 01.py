@@ -1,44 +1,33 @@
-''' A confederação nacional de natação precisa de um programa que leia o ano de nascimento de um atleta e mostre sua categoria, de acordo com a idade.'''
-
-#até 09 anos: mirim
-#até 14 anos: infantil
-#até 19 anos: junior
-#até 20 anos: sênior
-#-acima: master
-
+# Desafio 041 - A Confederação Nacional de Natação precisa de um programa que leia o ano de nascimento de um atleta e, de acordo com sua idade, exiba a sua categoria: até 9 anos a categoria é "MIRIM", até 14 anos a categoria é "INFANTIL", até 19 anos a categoria é "JÚNIOR", até 25 anos a categoria é "SÊNIOR" e acima de 25 anos a categoria é "MASTER".
 import datetime
 
-
-ano_nascimento = int(input('Digite o ano de nascimento do atleta:'.title()))
+ano_nascimento = int(input('Digite o ano de nascimento do atleta:'))
 
 print('=-' * 20)
 
 ano_atual = datetime.datetime.today().year
 
-resultado_atual_nascimento = (ano_atual - ano_nascimento)
+idade_atleta = (ano_atual - ano_nascimento)
 
-anos_9 = 'atleta mirim'
-anos_14 = 'atleta infantil'
-anos_19 = 'atleta junior'
-anos_20ate = 'atleta senior'
-acima_20 = 'atleta master'
+idade_max9 = 'atleta mirim'
+idade_max14 = 'atleta infantil'
+idade_max19 = 'atleta junior'
+idade_max25 = 'atleta senior'
+maior_25 = 'atleta master'
 
+if idade_atleta <= 9:
+    print(f'O atleta tem: {idade_atleta} anos, ele está na categoria: {idade_max9}, na confederação.')
 
-if resultado_atual_nascimento <= 9:
-    print(f'O atleta tem: {resultado_atual_nascimento} anos, ele está na categoria: {anos_9}, na confederação.'.title())
+elif 9 < idade_atleta <= 14:
+    print(f'O atleta tem: {idade_atleta} anos, ele está na categoria: {idade_max14}, na confederação.')
 
-elif 9 < resultado_atual_nascimento <= 14:
-    print(f'O atleta tem: {resultado_atual_nascimento} anos, ele está na categoria: {anos_14}, na confederação.'.title())
+elif 14 < idade_atleta <= 19:
+    print(f'O atleta tem: {idade_atleta} anos, ele está na categoria: {idade_max19}, na confederação.')
 
-elif 14 < resultado_atual_nascimento <= 19:
-    print(f'O atleta tem: {resultado_atual_nascimento} anos, ele está na categoria: {anos_19}, na confederação.'.title())
+elif 19 < idade_atleta <= 20:
+    print(f'O atleta tem: {idade_atleta} anos, ele está na categoria: {idade_max25}, na confederação.')
 
-elif 19 < resultado_atual_nascimento <= 20:
-    print(f'O atleta tem: {resultado_atual_nascimento} anos, ele está na categoria: {anos_20ate}, na confederação.'.title())
-
-elif resultado_atual_nascimento > 20:
-    print(f'O atleta tem: {resultado_atual_nascimento} anos, ele está na categoria: {acima_20}, na confederação.'.title())
+elif idade_atleta > 20:
+    print(f'O atleta tem: {idade_atleta} anos, ele está na categoria: {maior_25}, na confederação.')
 
 print('-=' *20)
-
-

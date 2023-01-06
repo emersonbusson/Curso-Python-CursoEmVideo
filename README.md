@@ -114,5 +114,7 @@
 - [Desafio 039](https://github.com/emersonbusson/Curso-Python-CursoEmVideo/blob/main/MUNDO%2002/AULA%20012%20-%20Codi%C3%A7%C3%B5es%20aninhadas/Desafio%20039%2C%20Aula%20012%2C%20forma%2001.py) - Faça um programa que leia o ano de nascimento de um jovem e informe, de acordo com a sua idade, se ele ainda vai se alistar ao serviço militar, se é a hora exata de se alistar ou se já passou do tempo do alistamento. Seu programa também deverá mostrar o tempo que falta ou que passou do prazo.
 - [039/Forma 02](https://github.com/emersonbusson/Curso-Python-CursoEmVideo/blob/main/MUNDO%2002/AULA%20012%20-%20Codi%C3%A7%C3%B5es%20aninhadas/Desafio%20039%2C%20Aula%20012%2C%20forma%2002.py)
 
-- [Desafio 040]() - 
+- [Desafio 040](https://github.com/emersonbusson/Curso-Python-CursoEmVideo/blob/main/MUNDO%2002/AULA%20012%20-%20Codi%C3%A7%C3%B5es%20aninhadas/Desafio%20040%2C%20Aula%20012%2C%20forma%2001.py) - Crie um programa que leia duas notas de um aluno e calcule sua média. Se a média for abaixo de 5.0, a mensagem exibida deve ser "REPROVADO". Se a média estiver entre 5.0 e 6.9, a mensagem exibida deve ser "RECUPERAÇÃO". Caso contrário, se a média for 7.0 ou superior, a mensagem exibida deve ser "APROVADO".
+
+- [Desafio 041](https://github.com/emersonbusson/Curso-Python-CursoEmVideo/blob/main/MUNDO%2002/AULA%20012%20-%20Codi%C3%A7%C3%B5es%20aninhadas/Desafio%20041%2C%20Aula%2012%2C%20forma%2001.py) - A Confederação Nacional de Natação precisa de um programa que leia o ano de nascimento de um atleta e, de acordo com sua idade, exiba a sua categoria: até 9 anos a categoria é "MIRIM", até 14 anos a categoria é "INFANTIL", até 19 anos a categoria é "JÚNIOR", até 25 anos a categoria é "SÊNIOR" e acima de 25 anos a categoria é "MASTER".
 
