@@ -24,7 +24,7 @@ print(f' {" JÔ ":^5} ')
 time.sleep(1)
 print(f'{" KEN ":^25}')
 time.sleep(1)
-print(f'{" PO ":^50}')1
+print(f'{" PO ":^50}')
 print('-=' * 15)
 
 if jogada_player == 0:
