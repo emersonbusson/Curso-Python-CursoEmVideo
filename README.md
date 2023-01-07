@@ -126,3 +126,10 @@
 - [Desafio 045](https://github.com/emersonbusson/Curso-Python-CursoEmVideo/blob/main/MUNDO%2002/AULA%20012%20-%20Codi%C3%A7%C3%B5es%20aninhadas/Desafio%20045%2C%20Aula%20012%2C%20forma%2001.py) - Crie um programa que faça o computador jogar Jokenpô com você.
 - [045/Forma 02](https://github.com/emersonbusson/Curso-Python-CursoEmVideo/blob/main/MUNDO%2002/AULA%20012%20-%20Codi%C3%A7%C3%B5es%20aninhadas/Desafio%20045%2C%20Aula%20012%2C%20forma%2002.py)
 
+### Aula 13 - Estrutura de Repetição For
+
+- [Desafio 046](https://github.com/emersonbusson/Curso-Python-CursoEmVideo/blob/main/MUNDO%2002/AULA%20013%20-%20Estrutura%20de%20repeti%C3%A7%C3%A3o%20for/Desafio%20046%2C%20Aula%20013%2C%20forma%2001.py) - Faça um programa que mostre uma contagem regressiva na tela para o estouro de fogos de artifício, indo de 10 até 0, com uma pausa de 1 segundo entre eles.
+
+- [Desafio 047](https://github.com/emersonbusson/Curso-Python-CursoEmVideo/blob/main/MUNDO%2002/AULA%20013%20-%20Estrutura%20de%20repeti%C3%A7%C3%A3o%20for/Desafio%20047%2C%20Aula%20013%2C%20forma%2001.py) - Crie um programa que mostre na tela todos os números pares que estão no intervalo entre 1 e 50.
+
+- [Desafio 048](https://github.com/emersonbusson/Curso-Python-CursoEmVideo/blob/main/MUNDO%2002/AULA%20013%20-%20Estrutura%20de%20repeti%C3%A7%C3%A3o%20for/Desafio%20048%2C%20Aula%20013%2C%20forma%2001.py) - Faça um programa que calcule a soma entre todos os números que são múltiplos de três e que se encontram no intervalo de 1 até 500.
