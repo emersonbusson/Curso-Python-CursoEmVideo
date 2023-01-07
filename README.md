@@ -120,3 +120,9 @@
 - [Desafio 042](https://github.com/emersonbusson/Curso-Python-CursoEmVideo/blob/main/MUNDO%2002/AULA%20012%20-%20Codi%C3%A7%C3%B5es%20aninhadas/Desafio%20042%2C%20complemento%20do%20desafio%2035%2C%20Refar%C3%A7a%20o%20Desafio%20035.py) - Refazer o desafio 035 de triângulos, adicionando a funcionalidade de identificar o tipo de triângulo formado: se todos os lados são iguais, trata-se de um triângulo EQUILÁTERO; se dois lados são iguais, trata-se de um triângulo ISÓSCELES; se todos os lados são diferentes, trata-se de um triângulo ESCALENO."
 
 - [Desafio 043](https://github.com/emersonbusson/Curso-Python-CursoEmVideo/blob/main/MUNDO%2002/AULA%20012%20-%20Codi%C3%A7%C3%B5es%20aninhadas/Desafio%20043%2C%20Aula%20012%2C%20forma%2001.py) - Desenvolva uma lógica que leia o peso e altura de uma pessoa, calcule seu IMC e mostre seu status de acordo com a tabela abaixo: abaixo de 18.5: abaixo do peso; entre 18.5 e 25: peso ideal; de 25 até 30: sobrepeso; de 30 até 40: obesidade; acima de 40: obesidade mórbida.
+
+- [Desafio 044](https://github.com/emersonbusson/Curso-Python-CursoEmVideo/blob/main/MUNDO%2002/AULA%20012%20-%20Codi%C3%A7%C3%B5es%20aninhadas/Desafio%20044%2C%20aula%2012%2C%20forma%2001.py) - Crie um programa que calcule o valor a ser pago por um produto considerando seu preço normal e a condição de pagamento: à vista dinheiro/cheque tem 10% de desconto, à vista no cartão tem 5% de desconto, até 2x no cartão tem preço normal e 3x ou mais no cartão tem 20% de juros.
+
+- [Desafio 045](https://github.com/emersonbusson/Curso-Python-CursoEmVideo/blob/main/MUNDO%2002/AULA%20012%20-%20Codi%C3%A7%C3%B5es%20aninhadas/Desafio%20045%2C%20Aula%20012%2C%20forma%2001.py) - Crie um programa que faça o computador jogar Jokenpô com você.
+- [045/Forma 02](https://github.com/emersonbusson/Curso-Python-CursoEmVideo/blob/main/MUNDO%2002/AULA%20012%20-%20Codi%C3%A7%C3%B5es%20aninhadas/Desafio%20045%2C%20Aula%20012%2C%20forma%2002.py)
+

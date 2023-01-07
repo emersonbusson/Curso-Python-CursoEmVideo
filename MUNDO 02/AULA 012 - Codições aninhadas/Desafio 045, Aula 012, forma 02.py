@@ -1,47 +1,48 @@
-'''Crie um programa que faça o computador jogar jokenpô com você. '''
+# Desafio 045 - Crie um programa que faça o computador jogar Jokenpô com você.
+#Forma 02
+
 import time
 import random
+
 itens = ('PEDRA', 'PAPEL', 'TESOURA')
-jogada_computador = random.randint( 0,2)
+jogada_computador = random.randint(0,2)
 
-opção_jogador = int(input('''
+jogada_player = int(input('''
 Faça sua jogada!
-                  [ 0 ] PEDRA                              
-                  [ 1 ] PAPEL
-                  [ 2 ] TESOURA
-                  Digite a sua opção: '''))
+[ 0 ] PEDRA                              
+[ 1 ] PAPEL
+[ 2 ] TESOURA
+Digite a sua opção: '''))
 
-if opção_jogador != 0 and opção_jogador != 1 and opção_jogador !=2:
-    print('OPÇÃO INCORRETA, TENTE NOVAMENTE UMAS DAS SEGUITES (OPÇÕES: 1, 2, 3')
+if jogada_player != 0 and jogada_player != 1 and jogada_player !=2:
+    print('Opção incorreta, tente novamente uma das seguintes opções: [0, 1, 2]')
 
 else:
-    print(('_' * 39))
-
+    print('-=' * 15)
     print(f'Computador jogou: {itens[jogada_computador]}')
-    print(('_' * 39))
-    print(f'Jogador Jogou: {itens[opção_jogador]}')
-    print(('_' * 39))
+    print(f'Jogador Jogou: {itens[jogada_player]}')
+    print('-=' * 15)
 
 if jogada_computador == 0: # Computador jogou: PEDRA
-    if opção_jogador == 0:
+    if jogada_player == 0:
         print('EMPATE!!!')
-    elif opção_jogador == 1:
+    elif jogada_player == 1:
         print('JOGADOR VENCEU!!')
-    elif opção_jogador == 2:
+    elif jogada_player == 2:
         print('COMPUTADOR VENCEU!!')
 
 elif jogada_computador == 1: # Computador jogou: PAPEL
-    if opção_jogador == 0:
+    if jogada_player == 0:
         print('COMPUTADOR VENCEU!!')
-    elif opção_jogador == 1:
+    elif jogada_player == 1:
         print('EMPATE!!')
-    elif opção_jogador == 2:
+    elif jogada_player == 2:
         print('JOGADOR VENCEU!!')
 
 elif jogada_computador == 2: # Computador jogou: TESOURA
-    if opção_jogador == 0:
+    if jogada_player == 0:
         print('JOGADOR VENCEU!!')
-    elif opção_jogador == 1:
+    elif jogada_player == 1:
         print('COMPUTADOR VENCEU!!')
-    elif opção_jogador == 2:
+    elif jogada_player == 2:
         print('EMPATE!!')
