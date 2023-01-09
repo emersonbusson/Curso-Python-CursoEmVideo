@@ -134,7 +134,7 @@
 
 - [Desafio 048](https://github.com/emersonbusson/Curso-Python-CursoEmVideo/blob/main/MUNDO%2002/AULA%20013%20-%20Estrutura%20de%20repeti%C3%A7%C3%A3o%20for/Desafio%20048%2C%20Aula%20013%2C%20forma%2001.py) - Faça um programa que calcule a soma entre todos os números que são múltiplos de três e que se encontram no intervalo de 1 até 500.
 
-- [Desafio 049](https://github.com/emersonbusson/Curso-Python-CursoEmVideo/blob/main/MUNDO%2002/AULA%20013%20-%20Estrutura%20de%20repeti%C3%A7%C3%A3o%20for/Desafio%20049%2C%20Aula%20013%2C%20forma%2001%2C%20Refa%C3%A7a%20o%20desafio%20009.py) -  Refaça o DESAFIO 009, mostrando a tabuada de um número que o usuário escolher, só que agora utilizando um laço for.
+- [Desafio 049](https://github.com/emersonbusson/Curso-Python-CursoEmVideo/blob/main/MUNDO%2002/AULA%20013%20-%20Estrutura%20de%20repeti%C3%A7%C3%A3o%20for/Desafio%20049%2C%20Aula%2013%2C%20forma%2001.py) -  Refaça o DESAFIO 009, mostrando a tabuada de um número que o usuário escolher, só que agora utilizando um laço for.
 
 - [Desafio 050](https://github.com/emersonbusson/Curso-Python-CursoEmVideo/blob/main/MUNDO%2002/AULA%20013%20-%20Estrutura%20de%20repeti%C3%A7%C3%A3o%20for/Desafio%20050%2C%20Aula%20013%2C%20forma%2001.py) - Desenvolva um programa que leia seis números inteiros e mostre a soma apenas daqueles que forem pares. Se o valor digitado for ímpar, desconsidere-o.
 
