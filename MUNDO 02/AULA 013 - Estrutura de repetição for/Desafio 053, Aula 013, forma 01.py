@@ -1,12 +1,11 @@
-'''Crie um programa que leia uma frase qualquer e diga se ela é um polindromo, desconsiderando os espaços'''
+# Desafio 053 - Crie um programa que leia uma frase qualquer e diga se ela é um palíndromo, desconsiderando os espaços.
 
 print( 5* '-=','DETECTOR DE PALINDROMO', 5*'-=')
 
-texto_dig_user = str(input('Digite um frase:')).upper().strip()
-texto_dig_user = texto_dig_user.replace(" ","")
-texto_dig_user = texto_dig_user.lower().title()
-palidromo = texto_dig_user [::-1]
-if texto_dig_user == texto_dig_user [::-1]:
-    print('A palavra ou frase: {}, de trás para frente fica: {}, trata-se de um palidromo.'.title().format(texto_dig_user, palidromo))
+frase = str(input('Digite um frase: '))
+frase = frase.replace(" ","").lower()
+frase_invertida = frase [::-1]
+if frase == frase_invertida:
+    print('A palavra ou frase: {}, de trás para frente fica: {}, trata-se de um palidromo.'.title().format(frase, frase_invertida))
 else:
-    print('A palavra ou frase: {}, de trás para frente fica: {}, não trata-se de um palidromo.'.title().format(texto_dig_user, palidromo))
+    print('A palavra ou frase: {}, de trás para frente fica: {}, não trata-se de um palidromo.'.title().format(frase, frase_invertida))

@@ -142,4 +142,7 @@
 
 - [Desafio 052](https://github.com/emersonbusson/Curso-Python-CursoEmVideo/blob/main/MUNDO%2002/AULA%20013%20-%20Estrutura%20de%20repeti%C3%A7%C3%A3o%20for/Desafio%20052%2C%20Aula%20013%2C%20forma%2001.py) - Faça um programa que leia um número inteiro e diga se ele é ou não um número primo.
 
-- [Desafio 053]() - 
+- [Desafio 053](https://github.com/emersonbusson/Curso-Python-CursoEmVideo/blob/main/MUNDO%2002/AULA%20013%20-%20Estrutura%20de%20repeti%C3%A7%C3%A3o%20for/Desafio%20053%2C%20Aula%20013%2C%20forma%2001.py) - Crie um programa que leia uma frase qualquer e diga se ela é um palíndromo, desconsiderando os espaços.
+- [053/Forma 02](https://github.com/emersonbusson/Curso-Python-CursoEmVideo/blob/main/MUNDO%2002/AULA%20013%20-%20Estrutura%20de%20repeti%C3%A7%C3%A3o%20for/Desafio%20053%2C%20Aula%20013%2C%20forma%2002.py)
+
+- [Desafio 054]()
