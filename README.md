@@ -151,3 +151,10 @@
 - [055/Forma 02](https://github.com/emersonbusson/Curso-Python-CursoEmVideo/blob/main/MUNDO%2002/AULA%20013%20-%20Estrutura%20de%20repeti%C3%A7%C3%A3o%20for/Desafio%20055%2C%20Aula%20013%2C%20%20forma%2002.py)
 
 - [Desafio 056](https://github.com/emersonbusson/Curso-Python-CursoEmVideo/blob/main/MUNDO%2002/AULA%20013%20-%20Estrutura%20de%20repeti%C3%A7%C3%A3o%20for/Desafio%20056%2C%20Aula%20013%2C%20forma%2001.py) - Desenvolva um programa que leia o nome, idade e sexo de 4 pessoas. No final do programa, mostre: a média de idade do grupo, qual é o nome do homem mais velho e quantas mulheres têm menos de 20 anos. 
+
+### Aula 13 - Estrutura de Repetição While
+
+- [Desafio 057](https://github.com/emersonbusson/Curso-Python-CursoEmVideo/blob/main/MUNDO%2002/AULA%20014%20-%20Estrutura%20de%20repeti%C3%A7%C3%A3o%20while/Desafio%20057%2C%20Aula%20014%2C%20forma%2001.py) - Faça um programa que leia o sexo de uma pessoa, mas só aceite os valores 'M' ou 'F'. Caso esteja errado, peça a digitação novamente até ter um valor correto.
+
+- [Desafio 058](https://github.com/emersonbusson/Curso-Python-CursoEmVideo/blob/main/MUNDO%2002/AULA%20014%20-%20Estrutura%20de%20repeti%C3%A7%C3%A3o%20while/Desafio%20058%2C%20Aula%20014%2C%20forma%2001.py) - Melhore o jogo do DESAFIO 028 onde o computador vai "pensar" em um número entre 0 e 10. Só que agora o jogador vai tentar adivinhar até acertar, mostrando no final quantos palpites foram necessários para vencer.
+- [058/Forma 02](https://github.com/emersonbusson/Curso-Python-CursoEmVideo/blob/main/MUNDO%2002/AULA%20014%20-%20Estrutura%20de%20repeti%C3%A7%C3%A3o%20while/Desafio%20058%2C%20Aula%20014%2C%20forma%2002.py)

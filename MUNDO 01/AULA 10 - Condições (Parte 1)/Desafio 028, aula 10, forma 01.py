@@ -4,9 +4,7 @@ import random
 import time
 
 
-print('--===--' * 20)
-print('Vou pensar em um número entre 0 e 5. tente adivinhar...')
-print('--===--' * 20)
+print('{:=^80}'.format(" Acabei de pensar em um número entre 0 e 5, tente adivinhar! " ))
 
 escolha_do_usuario = int(input('Em que número eu pensei?: '))
 pensamento_do_computador = (random.randrange(0,5))
@@ -16,4 +14,4 @@ time.sleep(1.5)
 if pensamento_do_computador == escolha_do_usuario:
     print('Parabéns, você acertou, eu pensei no número: {}'.format(pensamento_do_computador))
 else:
-    print('Ganhei, eu pensei no número: {}'.format(pensamento_do_computador))
+    print('Você errou, eu pensei no número: {}'.format(pensamento_do_computador))
