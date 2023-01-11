@@ -145,4 +145,9 @@
 - [Desafio 053](https://github.com/emersonbusson/Curso-Python-CursoEmVideo/blob/main/MUNDO%2002/AULA%20013%20-%20Estrutura%20de%20repeti%C3%A7%C3%A3o%20for/Desafio%20053%2C%20Aula%20013%2C%20forma%2001.py) - Crie um programa que leia uma frase qualquer e diga se ela é um palíndromo, desconsiderando os espaços.
 - [053/Forma 02](https://github.com/emersonbusson/Curso-Python-CursoEmVideo/blob/main/MUNDO%2002/AULA%20013%20-%20Estrutura%20de%20repeti%C3%A7%C3%A3o%20for/Desafio%20053%2C%20Aula%20013%2C%20forma%2002.py)
 
-- [Desafio 054]()
+- [Desafio 054](https://github.com/emersonbusson/Curso-Python-CursoEmVideo/blob/main/MUNDO%2002/AULA%20013%20-%20Estrutura%20de%20repeti%C3%A7%C3%A3o%20for/Desafio%20054%2C%20Aula%20013%2C%20%20forma%2001.py) - Crie um programa que leia o ano de nascimento de sete pessoas. No final, mostre quantas pessoas ainda não atingiram a maioridade e quantas já são maiores.
+
+- [Desafio 055](https://github.com/emersonbusson/Curso-Python-CursoEmVideo/blob/main/MUNDO%2002/AULA%20013%20-%20Estrutura%20de%20repeti%C3%A7%C3%A3o%20for/Desafio%20055%2C%20Aula%20013%2C%20%20forma%2001.py) - Faça um programa que leia o peso de cinco pessoas. No final, mostre qual foi o maior e o menor peso lidos.
+- [055/Forma 02](https://github.com/emersonbusson/Curso-Python-CursoEmVideo/blob/main/MUNDO%2002/AULA%20013%20-%20Estrutura%20de%20repeti%C3%A7%C3%A3o%20for/Desafio%20055%2C%20Aula%20013%2C%20%20forma%2002.py)
+
+- [Desafio 056](https://github.com/emersonbusson/Curso-Python-CursoEmVideo/blob/main/MUNDO%2002/AULA%20013%20-%20Estrutura%20de%20repeti%C3%A7%C3%A3o%20for/Desafio%20056%2C%20Aula%20013%2C%20forma%2001.py) - Desenvolva um programa que leia o nome, idade e sexo de 4 pessoas. No final do programa, mostre: a média de idade do grupo, qual é o nome do homem mais velho e quantas mulheres têm menos de 20 anos. 
