@@ -158,3 +158,5 @@
 
 - [Desafio 058](https://github.com/emersonbusson/Curso-Python-CursoEmVideo/blob/main/MUNDO%2002/AULA%20014%20-%20Estrutura%20de%20repeti%C3%A7%C3%A3o%20while/Desafio%20058%2C%20Aula%20014%2C%20forma%2001.py) - Melhore o jogo do DESAFIO 028 onde o computador vai "pensar" em um número entre 0 e 10. Só que agora o jogador vai tentar adivinhar até acertar, mostrando no final quantos palpites foram necessários para vencer.
 - [058/Forma 02](https://github.com/emersonbusson/Curso-Python-CursoEmVideo/blob/main/MUNDO%2002/AULA%20014%20-%20Estrutura%20de%20repeti%C3%A7%C3%A3o%20while/Desafio%20058%2C%20Aula%20014%2C%20forma%2002.py)
+
+- [Desafio 059](https://github.com/emersonbusson/Curso-Python-CursoEmVideo/blob/main/MUNDO%2002/AULA%20014%20-%20Estrutura%20de%20repeti%C3%A7%C3%A3o%20while/Desafio%20059%2C%20Aula%2014%2C%20forma%2001.py) - Crie um programa que leia dois valores, exiba um menu com as opções de somar, multiplicar, encontrar o maior número, inserir novos números ou sair do programa e execute a operação solicitada.
